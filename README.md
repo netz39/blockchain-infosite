@@ -28,4 +28,4 @@ MIT ©2022 Netz39 e.V. und Beitragende
 Wir benutzen [Skeleton](https://github.com/dhg/Skeleton/) als Webseiten-Template.
 
 Fotos:
-* [U.S. Department of EnergyFollow HD.6D.196 via flickr](https://flickr.com/photos/departmentofenergy/10822424056/)
+* [U.S. Department of Energy HD.6D.196 via flickr](https://flickr.com/photos/departmentofenergy/10822424056/)
