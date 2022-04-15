@@ -430,6 +430,11 @@ div.logo {
   color: white;
 }
 
+.title a {
+  color: white;
+}
+
 .photo {
   width: 100%;
+  margin-bottom: -15em;
 }
