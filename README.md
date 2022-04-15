@@ -24,3 +24,5 @@ Beachte bitte folgende Leitlinien:
 ## Lizenz
 
 MIT ©2022 Netz39 e.V. und Beitragende
+
+Wir benutzen [Skeleton](https://github.com/dhg/Skeleton/) als Webseiten-Template.
