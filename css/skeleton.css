@@ -416,12 +416,20 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
-.logo {
-  object-fit: cover;
+img.logo {
+  width: 50%;
   filter: opacity(0.9) invert(1) ;
+}
+
+div.logo {
+  text-align: right;
 }
 
 .title {
   background: #0077b3;
   color: white;
+}
+
+.photo {
+  width: 100%;
 }
