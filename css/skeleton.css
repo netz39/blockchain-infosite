@@ -25,7 +25,6 @@
 - Media Queries
 */
 
-
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -416,3 +415,13 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+.logo {
+  object-fit: cover;
+  filter: opacity(0.9) invert(1) ;
+}
+
+.title {
+  background: #0077b3;
+  color: white;
+}
