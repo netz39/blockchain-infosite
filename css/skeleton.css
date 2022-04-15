@@ -416,6 +416,12 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
+em {
+  font-style: normal;
+  font-weight: bold;
+  color: #BD4D15;
+}
+
 img.logo {
   width: 50%;
   filter: opacity(0.9) invert(1) ;
