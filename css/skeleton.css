@@ -442,6 +442,25 @@ div.logo {
   color: white;
 }
 
+.topic {
+  padding: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.crypto {
+  background-color: #d9e5d6;
+}
+
+.work {
+  background-color: #fde6d9;
+}
+
+.conclusion {
+  background-color: #eddea4;
+}
+
 .photo {
   width: 100%;
   margin-bottom: -15em;
