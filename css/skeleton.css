@@ -34,6 +34,8 @@
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
+.row {
+  display: flex; }
 .column,
 .columns {
   width: 100%;
@@ -416,6 +418,12 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
+em {
+  font-style: normal;
+  font-weight: bold;
+  color: #BD4D15;
+}
+
 img.logo {
   width: 50%;
   filter: opacity(0.9) invert(1) ;
@@ -430,6 +438,30 @@ div.logo {
   color: white;
 }
 
+.title a {
+  color: white;
+}
+
+.topic {
+  padding: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.crypto {
+  background-color: #d9e5d6;
+}
+
+.work {
+  background-color: #fde6d9;
+}
+
+.conclusion {
+  background-color: #eddea4;
+}
+
 .photo {
   width: 100%;
+  margin-bottom: -15em;
 }
