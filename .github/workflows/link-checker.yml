@@ -17,6 +17,7 @@ jobs:
           uses: lycheeverse/lychee-action@v2.0.2
           with:
             args: --verbose --retry-wait-time 30 https://blockchain.netz39.de/
+            fail: false # Don't fail action on broken links
 
         - name: Create Issue From File
           if: env.lychee_exit_code != 0
